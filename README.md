@@ -4,7 +4,7 @@ Un programa hecho en python que calcula diferentes tipos de distribuciones discr
 
 Este programa calcula 
 1. Distribuciones discretas:
-  a) Distribucion Binomial
+  \na) Distribucion Binomial
   b) Distribucion de Poisson
   c) Distribucion Multinomial
   d) Distribucion Hipergeometrica
